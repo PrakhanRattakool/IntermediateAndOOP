@@ -6,10 +6,6 @@ using System.Threading.Tasks;
 
 namespace AccessModifiers
 {
-    public class Person
-    {
-
-    }
     class Program
     {
         static void Main(string[] args)
