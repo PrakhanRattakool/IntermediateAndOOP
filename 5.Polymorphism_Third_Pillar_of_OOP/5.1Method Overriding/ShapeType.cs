@@ -1,7 +1,9 @@
 ﻿namespace MethodOverriding
 {
-    public class ShapeType
+    public enum ShapeType
     {
-
+        Circle,
+        Rectangle,
+        Triangle
     }
 }
