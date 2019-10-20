@@ -1,7 +1,8 @@
 ﻿namespace InterfacePolymor
 {
-    public class INotificationChannel
+    public interface INotificationChannel
     {
 
+        void Send(Message message);
     }
 }
