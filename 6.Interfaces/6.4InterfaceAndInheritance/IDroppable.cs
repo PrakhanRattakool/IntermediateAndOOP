@@ -2,6 +2,6 @@
 {
     public class IDroppable
     {
-
+        void Drop();
     }
 }
