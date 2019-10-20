@@ -9,6 +9,10 @@ namespace Constructors
         {
             Console.WriteLine("Vegicle is being initialized.");
         }
+        //        public Vehicle()
+        //        {
+        //            Console.WriteLine("Vegicle is being initialized.");
+        //        }
         public Vehicle(string registrationNumber)
         {
             _registrationNumber = registrationNumber;
